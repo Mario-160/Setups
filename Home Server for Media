@@ -2,7 +2,7 @@ CPU: Intel Core i5-3570@3.40Ghz
 Ram: 2x8GB Fujitsu F3-2400C11-8GXM (16GB@1666Mhz DDR3)
 Mobo: MEDION B75MA-P45
 GPU: NVIDIA GeForce GTX 970 4GB
-OS: Ubuntu 25.04 Server-minimal
+OS: Ubuntu 25.10 Server-minimal
 Boot Drive: A-Data SU800 256GB (SATA 6Gb/s)
 Data Drive 1 (/data): Hitachi HTS547575A9E384 750GB (SATA 3Gb/s)
 Data Drive 2 (/lanshare): Samsung ST500LT012-9WS142 320GB (SATA 3Gb/s)
@@ -13,3 +13,4 @@ Data Raid 1(raid_0) (/media):
 Data Raid 2(mirror) (/backup):
     Drive 1: Toshiba MK3265GSXN 320GB (USB 2.1 480 Mb/s)
     Drive 2: Western Digital WD3200BPVT-24JJ5T0 320GB (USB 2.1 480 Mb/s)
+Monitor: Samsung Odyssey F24G35TFWUX 1080p 144Hz (60hz mode)

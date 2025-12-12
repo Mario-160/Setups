@@ -1,1 +1,1 @@
-Here's my current setup and basicaly every tech that i daily use/work on.
+Here's my current setup's and basicaly every tech that i daily use/work on.
