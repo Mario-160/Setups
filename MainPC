@@ -1,8 +1,8 @@
 Main unit:
-    CPU: AMD Ryzen 5 3600 /w Box Cooler
-    Ram: 2x8GB Corsair CMK16GX4M2D3200C16 + 1x8GB Kingston KF2666C16D4 + 1x4GB Kingston KHX2133C14D4 (28GB@2133mhz)
+    CPU: AMD Ryzen 5 3600 /w SMX Taifu Cooler
+    Ram: 2x8GB Corsair CMK16GX4M2D3200C16 + 2x8GB Patriot Memory (PDP Systems) 3000 C16 Series (DDR4-2998)
     Mobo: GIGABYTE A520M DS3H V2
-    GPU: NVIDIA GeForce GTX 1070TI 8GB
+    GPU: NVIDIA GeForce RTX 4060 8GB
     OS: Win 11 24H2 using Tiny11 /w AtlasOS
     Boot Drive: Lexar SSD NM620 256GB (NVMe 8.0 GT/s)
     Data Drive 1: GOODRAM CX400 512GB (SATA 6Gb/s)
@@ -11,8 +11,8 @@ Peripherals:
     Main Monitor: AOC Q27G42XE 2560X1440 180Hz
     Second Monitor: HP L2045w 1680x1050 60Hz (Vertical)
     Mouse: SteelSeries Rival 3 Wireless (800dpi) (2.4ghz mode)
-    Tablet: One by Wacom CTL-472 /w OpenTabletDriver (90x50.625 area) [Dragging on mousepad playstyle] 
-    MousePad: SteelSeries QCK (and some)
+    Tablet: One by Wacom CTL-472 /w OpenTabletDriver (90x50.625 area)
+    MousePad: SteelSeries QCK Lavender
     Keyboard: Aula F75 (Some sort or ultra light Redragon switch)
     Headphones 1: SuperLux HD 681B
     Dac: Realtek ALC5686 UsbC>Jack 3,5mm (not in a constant use)
@@ -20,4 +20,4 @@ Peripherals:
     Webcam 2: PS3 eye (60fps mode)
     Wanna be StreamDeck: Huawei Mate 10 /w WebDeck
     Gamepad: Google Stadia Controller
-    Bluetooth: TPLink
+    Bluetooth: TP-Link UB500 Plus Bluetooth 5.3 Long Range USB
