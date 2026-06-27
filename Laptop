@@ -1,7 +1,7 @@
 Model: Lenovo Thinkpad x270
 CPU: Intel Core i5-6300U
-Ram: 8GB (7.6GB visible in system)
+Ram: Samsung M471A1K43CB1-CRC 8GB@2400MT/s
 GPU: Intel HD Graphics 520 (integrated)
-OS: Windows 11 
-Boot Drive: Micron 2200S NVME 256GB
-Mouse(almost never used): Logitech G102 LIGHTSYNC Black (800 dpi)
+OS: Windows 11 25H2 w/AtlasOS + xUbuntu
+Boot Drive: LITEON CV1-8B128 128GB
+Mouse(almost never used): ProtoArc KM90-A
